@@ -74,3 +74,5 @@ pytest Seam-Carving/test_seam_carver.py
 ## License
 This project includes Real-ESRGAN, which is licensed under [Real-ESRGAN's license]. See `LICENSE` under the Real-ESRGAN file for details.
 
+[MIT License](LICENSE)
+
